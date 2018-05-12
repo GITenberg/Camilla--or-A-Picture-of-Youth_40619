@@ -1,0 +1,39 @@
+_repo: Camilla--or-A-Picture-of-Youth_40619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burney, Fanny
+    aliases:
+    - Burney, Frances
+    - D'Arblay, Frances Burney
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '2010'
+    url: http://www.gutenberg.org/2009/agents/2010
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Burney
+description: First published in 1796, Camilla deals with the matrimonial concerns
+  of a group of young people-Camilla Tyrold and her sisters, the daughters of a country
+  parson, and their cousin Indiana Lynmere-and, in particular, with the love affair
+  between Camilla herself and her eligible suitor, EdgarMandlebert. The path of true
+  love, however, is strewn with intrigue, contretemps and misunderstanding. An enormously
+  popular eighteenth-century novel, Camilla is touched at many points by the advancing
+  spirit of romanticism. As in Evelina, Fanny Burney weaves into her novel strands
+  of light and dark, comic episodes and gothic shudders, and creates a pattern of
+  social and moral dilemmas whichemphasize and illuminate the gap between generations.
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- England -- Fiction'
+title: Camilla; or, A Picture of Youth
+url: http://www.gutenberg.org/ebooks/40619
